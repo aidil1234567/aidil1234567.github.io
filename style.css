@@ -1,14 +1,28 @@
-h1 {
+.jumbotron{
+	padding-top: 70px;
+	background-color: #00cba9;
 	
 }
-.jumbotron{
-	padding-top: 20px ;
-	background-color: #e0f7ff;
 
+#gallery{
+	background-color: #00cba9;
 }
-body{
-	min-height: 2000px;
+
+footer a{
+	text-decoration: none;
+	color: white;
+}
+
+footer{
+	padding-bottom: 20px;
+}
+
+section{
+	padding-top: 70px;
+}
+body {
 	font-family: 'Poppins', sans-serif;
 }
-.jumbotron h1{
-	font-weight: bold;}
+.jumbotron h2{
+	font-weight: bold;
+}
